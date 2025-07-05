@@ -40,3 +40,19 @@ This is a simplified Candy Crush-style puzzle game built using **React.js**. The
 ```bash
 npm install
 npm start
+```
+
+📌 About the Project
+This project was built to strengthen React concepts such as:
+
+State & side effects (useState, useEffect)
+
+Array/grid manipulation
+
+Custom logic loops with timeouts/intervals
+
+Interactive drag-and-drop UI
+
+👨‍💻 Author
+Ajay Surya
+
